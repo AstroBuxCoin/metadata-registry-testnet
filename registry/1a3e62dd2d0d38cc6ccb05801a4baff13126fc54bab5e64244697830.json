@@ -1,0 +1,13 @@
+{
+  "subject": "1a3e62dd2d0d38cc6ccb05801a4baff13126fc54bab5e64244697830",
+  "name": {
+    "value": "OneCoin"
+  },
+  "description": {
+    "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor."
+  },
+  "ticker": { "value": "ONE" },
+  "unit": { "value": { "decimals": 13, "name": "ones" } },
+  "url": { "value": "https://onecoin.io" },
+  "logo": { "value": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8DwHwAFBQIAX8jx0gAAAABJRU5ErkJggg==" }
+}
